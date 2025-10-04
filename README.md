@@ -57,4 +57,6 @@ Exploratory Data Analysis (EDA) on the Bank Loan Approval dataset involves thoro
 6. Offer micro-loans, financial education, and credit-building programs to improve their approval chances.
 7. Use age as a predictive feature for approval and risk management.
 
+### Dashboard Pictures
  
+<img width="723" height="419" alt="Bank loan Analysis" src="https://github.com/user-attachments/assets/5d3947d0-a6f9-4706-8cd8-3e730c3d4f8e" />
