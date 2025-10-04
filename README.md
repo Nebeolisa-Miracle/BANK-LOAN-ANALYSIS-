@@ -9,8 +9,6 @@
 - [Insights](#insights)
 - [Recommendations](#recommendations)
  
-  
-
 
 ### Project Overview
 
