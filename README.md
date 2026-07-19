@@ -60,3 +60,17 @@ Exploratory Data Analysis (EDA) on the Bank Loan Approval dataset involves thoro
 ### Dashboard Pictures
  
 <img width="723" height="419" alt="Bank loan Analysis" src="https://github.com/user-attachments/assets/5d3947d0-a6f9-4706-8cd8-3e730c3d4f8e" />
+
+
+### Medium Article
+Read the full project documentation here: [Medium](https://medium.com/@nebeolisamiracle99/surgical-site-infections-data-analysis-30da736bd31c)
+
+
+### Author
+
+### Nebeolisa Miracle
+
+**Data Analyst | Data Analytics Tutor | Problem Solver**
+
+### Connect with me: 
+[LinkedIn](https://www.linkedin.com/in/nebeolisa-miracle)
