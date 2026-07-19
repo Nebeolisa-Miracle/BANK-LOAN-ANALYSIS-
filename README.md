@@ -59,7 +59,11 @@ Exploratory Data Analysis (EDA) on the Bank Loan Approval dataset involves thoro
 
 ### Dashboard Pictures
  
-<img width="723" height="419" alt="Bank loan Analysis" src="https://github.com/user-attachments/assets/5d3947d0-a6f9-4706-8cd8-3e730c3d4f8e" />
+<img width="832" height="490" alt="Bank Loan 1" src="https://github.com/user-attachments/assets/8ce63ae0-d443-42b1-8e20-7d1c5a2000ef" />
+
+<img width="829" height="499" alt="Bank Loan 2" src="https://github.com/user-attachments/assets/d1df9bda-6b55-427d-90ae-de81eb5970ee" />
+
+<img width="845" height="500" alt="Bank Loan 3" src="https://github.com/user-attachments/assets/e562d7f1-040a-45ab-b6af-94c8178d7e58" />
 
 
 ### Medium Article
