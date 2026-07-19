@@ -63,7 +63,7 @@ Exploratory Data Analysis (EDA) on the Bank Loan Approval dataset involves thoro
 
 
 ### Medium Article
-Read the full project documentation here: [Medium](https://medium.com/@nebeolisamiracle99/surgical-site-infections-data-analysis-30da736bd31c)
+Read the full project documentation here: [Medium](https://medium.com/@nebeolisamiracle99/bank-loan-approval-data-analysis-c1a643b07570?sharedUserId=nebeolisamiracle99)
 
 
 ### Author
